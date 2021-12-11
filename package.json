@@ -16,6 +16,9 @@
   },
   "author": "",
   "license": "MPL-2.0",
+  "publishConfig": {
+    "access": "public"
+  },
   "bugs": {
     "url": "https://github.com/BirbJS/snowflake/issues"
   },
